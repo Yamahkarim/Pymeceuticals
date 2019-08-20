@@ -27,18 +27,20 @@ In order to accomplish this I have:
  
 ##Explore 
 
-1.) Create and run Virtual enviornment 
+1.) Clone Repo 
 
-2.) Download [Python 3](https://www.python.org/downloads/)
+2.) Create and run Virtual enviornment 
 
-3.) Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) and [install matplotlib](https://matplotlib.org/users/installing.html) 
+3.) Download [Python 3](https://www.python.org/downloads/)
 
-3.) Navigate to file directory for repo via Command line and run: 
+4.) Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) and [install matplotlib](https://matplotlib.org/users/installing.html) 
+
+5.) Navigate to file directory for repo via Command line and run: 
 		
 		Jupyter Notebook 
 
-4.) Open pymeceuticals_final.ipynb
+6.) Open pymeceuticals_final.ipynb
 	-follow through code to explore analytical process and produce data visualizations. 
 	
-5.) Final images of data visualiations can be found in "/img" directory and a brief text analysis of the findings are located in "Pymeceutical_Analysis.txt"
+7.) Final images of data visualiations can be found in "/img" directory and a brief text analysis of the findings are located in "Pymeceutical_Analysis.txt"
 
